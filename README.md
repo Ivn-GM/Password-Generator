@@ -1,2 +1,2 @@
 # Password Generator
-![alt text](https://github.com/Ivn-GM/Password-Generator/blob/master/images/password.png?raw=true)
+![alt text](https://github.com/Ivn-GM/Password-Generator/blob/main/images/password.png?raw=true)
